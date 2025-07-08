@@ -5,3 +5,9 @@ Um curso para iniciante aprenderem a trabalhar com versionamente do código e re
 Além disso, vamos trabalhar com Gitflow ao final do curso e Visual Studio Code. 
 
 Confira tudo o que temos no nosso Youtube. É grátis! 
+
+----
+
+Pessoas participantes:
+
+- Téo
