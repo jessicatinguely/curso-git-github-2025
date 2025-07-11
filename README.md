@@ -12,7 +12,6 @@ Além do nosso Youtube, se liga no nosso site para ficar por dentro do que vai r
 
 teomewhy.org
 
-
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
